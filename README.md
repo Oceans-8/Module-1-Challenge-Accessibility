@@ -1,7 +1,7 @@
 # Module-1-Challenge-Accessibility
 Module 1 Challenge Accessibility ADENIYI
 
-# Project Title
+# Project
 Web Page Refactor for Horiseon Web Services
 
 # Project Description
@@ -14,7 +14,10 @@ Finally, as of the key project aims was accessibility and  it was imperitive to 
 # Functionality
 The final output is a functional website with information and working links.
 
+# License/Source
+Original code from design brief
+
 # Appearance
-![Webpage Screenshot](<Screenshot 2023-10-19 at 7.42.25 pm.png>)
+![Webpage Screenshot](<Develop/assets/images/Webpage Screenshot.png>)
 
 ## Link
